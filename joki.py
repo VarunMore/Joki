@@ -6,7 +6,7 @@ from datetime import datetime
 
 joki = pywhatkit
 # group_id ="GxsTC5PKacSCebS2Vi9Gxp"
-phone_num = "+918104304791"
+phone_num = "+9100000000"
 
 
 def sendjokes(num):
